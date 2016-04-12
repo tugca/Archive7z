@@ -1,12 +1,12 @@
 {
-    "name": "gemorroj/archive7z",
+    "name": "tugca/archive7z",
     "description": "7z cli wrapper",
     "keywords": ["7z","archive"],
     "type": "library",
     "license": "GPLv3",
     "authors": [
         {
-            "name": "Gemorroj"
+            "name": "Tuğca Eker"
         }
     ],
     "require": {
